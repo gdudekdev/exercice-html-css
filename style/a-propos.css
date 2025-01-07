@@ -21,3 +21,26 @@
   width: 50%;
   margin: auto;
 }
+
+caption{
+  padding-bottom:30px;
+  font-size: 2rem;
+  font-weight: 600;
+}
+
+table{
+  color:white;
+  border-collapse:collapse;
+  margin:auto;
+  text-align:center;
+}
+
+td,th{
+  border: 1px solid #8e86b5;
+  padding: 10px;
+  text-align: center;
+}
+
+td{
+  padding:40px;
+}
